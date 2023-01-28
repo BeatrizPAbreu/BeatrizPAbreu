@@ -1,6 +1,6 @@
 ## Olá, eu sou a Beatriz Abreu, estudante de engenharia de telecomunicações!
 
-<p align="center"> Visitantes:</p>
+<p align="center"> Visitas:</p>
 <p align="center"><img align="center"src="https://profile-counter.glitch.me/BeatrizPAbreu/count.svg"/></p>
 
 
