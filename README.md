@@ -1,4 +1,8 @@
-### Olá, eu sou a Beatriz Abreu, estudante de engenharia de telecomunicações!
+## Olá, eu sou a Beatriz Abreu, estudante de engenharia de telecomunicações!
+
+<p align="center"> Visitantes:</p>
+<p align="center"><img align="center"src="https://profile-counter.glitch.me/BeatrizPAbreu/count.svg"/></p>
+
 
 
 🟣 Tenho 20 anos
@@ -23,3 +27,5 @@ Eu sabia que estudar engenharia não seria fácil, mas por meio dela, consigo de
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizPAbreu&show_icons=true&theme=ocean_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizPAbreu&layout=langs_count=8&theme=ocean_dark)](https://github.com/BeatrizPAbreu/github-readme-stats)
+
+![snake gif](https://github.com/BeatrizPAbreu/BeatrizPAbreu/blob/output/github-contribution-grid-snake.svg)
