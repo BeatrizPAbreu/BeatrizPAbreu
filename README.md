@@ -19,5 +19,7 @@ Resumindo minha trajetória:
 
 Eu sabia que estudar engenharia não seria fácil, mas por meio dela, consigo descobrir como o mundo funciona e perceber como ainda existem novas descobertas a serem feitas! É um desafio diário que vale a pena.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizPAbreu&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizPAbreu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizPAbreu&show_icons=true&theme=panda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizPAbreu&layout=compact)](https://github.com/BeatrizPAbreu/github-readme-stats)
