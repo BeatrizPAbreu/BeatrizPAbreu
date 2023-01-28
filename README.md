@@ -19,3 +19,4 @@ Resumindo minha trajetória:
 
 Eu sabia que estudar engenharia não seria fácil, mas por meio dela, consigo descobrir como o mundo funciona e perceber como ainda existem novas descobertas a serem feitas! É um desafio diário que vale a pena.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizPAbreu&show_icons=true&theme=radical)
